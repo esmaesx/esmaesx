@@ -10,10 +10,11 @@ I lead genetics and bioinformatics programs that connect GWAS, multi‑omics, an
 - Delivered production ML and analytics with engineering, including testing, versioning, and monitoring
 
 ## Focus areas
-- GWAS QC and locus visualization
-- QTL colocalization across eQTL, pQTL, and sQTL
-- Clinical and RWE data integration
-- Reproducible pipelines and clear reporting
+- Translational genetics strategy and study design
+- Patient stratification, trial enrichment, and biomarker development
+- Biobank scale analytics, GWAS, PRS, and colocalization
+- Multi‑omics and clinical integration with decision‑grade reporting
+- Production ML and analytics with engineering standards
 
 ## Featured projects
 - **GWAS Locus Visualization and QTL Colocalization Pipeline**
