@@ -17,8 +17,8 @@ I lead genetics and bioinformatics programs that connect GWAS, multi‑omics, an
 - Production ML and analytics with engineering standards
 
 ## Featured projects
-- **GWAS Locus Visualization and QTL Colocalization Pipeline**
-  https://github.com/esmaesx/gwas-multiomics-prioritization
+- **GWAS Functional Annotation**
+  https://github.com/esmaesx/gwas-functional-annotation
 - **QTL Colocalization Pipeline**
   https://github.com/esmaesx/coloc-qtl-pipeline
 
